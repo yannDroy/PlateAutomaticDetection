@@ -1,0 +1,11 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.3.0
+B	f1a5:Plate number:
+J	x
+JJ	J20
+Jx	x1
+R	0/20/0/1
+X	2
+Y	-4
+L	3
+END
